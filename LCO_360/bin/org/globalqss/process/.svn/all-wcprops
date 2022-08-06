@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/adempiere/!svn/ver/14082/branches/globalqss/LCO_360/extend/src/org/globalqss/process
+END
+LCO_DianProcessContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/14082/branches/globalqss/LCO_360/extend/src/org/globalqss/process/LCO_DianProcessContent.java
+END
+LCO_DianGenerateXML.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/14082/branches/globalqss/LCO_360/extend/src/org/globalqss/process/LCO_DianGenerateXML.java
+END
+LCO_GenerateWithholding.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/14082/branches/globalqss/LCO_360/extend/src/org/globalqss/process/LCO_GenerateWithholding.java
+END
+LCO_DianExportXML.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/adempiere/!svn/ver/14082/branches/globalqss/LCO_360/extend/src/org/globalqss/process/LCO_DianExportXML.java
+END

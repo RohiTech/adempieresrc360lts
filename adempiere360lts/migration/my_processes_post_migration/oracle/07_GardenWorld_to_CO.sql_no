@@ -1,0 +1,66 @@
+UPDATE AD_CLIENT SET AD_LANGUAGE = 'es_CO' WHERE ad_client_id = 11 AND AD_LANGUAGE = 'en_US';
+
+UPDATE C_TAX SET C_COUNTRY_id = 156, c_region_id = NULL WHERE c_country_id = 100 AND ad_client_id = 11;
+
+UPDATE C_TAX SET to_COUNTRY_id = 156, to_region_id = NULL WHERE to_country_id = 100 AND ad_client_id = 11;
+
+UPDATE C_LOCATION SET c_country_id = 156, c_region_id = NULL, c_city_id = NULL WHERE c_country_id = 100 AND ad_client_id = 11;
+
+UPDATE C_BPARTNER SET AD_LANGUAGE = 'es_CO' WHERE ad_client_id = 11 AND AD_LANGUAGE = 'en_US';
+
+
+UPDATE AD_ROLE SET c_currency_id = 230 WHERE c_currency_id = 100 AND ad_client_id = 11;
+
+UPDATE C_ACCTSCHEMA SET c_currency_id = 230 WHERE c_currency_id = 100 AND ad_client_id = 11;
+
+UPDATE C_ALLOCATIONHDR SET c_currency_id = 230 WHERE c_currency_id = 100 AND ad_client_id = 11;
+
+UPDATE C_BANKACCOUNT SET c_currency_id = 230 WHERE c_currency_id = 100 AND ad_client_id = 11;
+
+UPDATE C_BANKSTATEMENTLINE SET c_currency_id = 230 WHERE c_currency_id = 100 AND ad_client_id = 11;
+
+UPDATE C_CASHBOOK SET c_currency_id = 230 WHERE c_currency_id = 100 AND ad_client_id = 11;
+
+UPDATE C_CASHLINE SET c_currency_id = 230 WHERE c_currency_id = 100 AND ad_client_id = 11;
+
+UPDATE C_COMMISSION SET c_currency_id = 230 WHERE c_currency_id = 100 AND ad_client_id = 11;
+
+UPDATE C_CONVERSION_RATE SET c_currency_id = 230 WHERE c_currency_id = 100 AND ad_client_id = 11;
+
+UPDATE C_CYCLE SET c_currency_id = 230 WHERE c_currency_id = 100 AND ad_client_id = 11;
+
+UPDATE C_INVOICE SET c_currency_id = 230 WHERE c_currency_id = 100 AND ad_client_id = 11;
+
+UPDATE C_ORDER SET c_currency_id = 230 WHERE c_currency_id = 100 AND ad_client_id = 11;
+
+UPDATE C_ORDERLINE SET c_currency_id = 230 WHERE c_currency_id = 100 AND ad_client_id = 11;
+
+UPDATE C_PAYMENT SET c_currency_id = 230 WHERE c_currency_id = 100 AND ad_client_id = 11;
+
+UPDATE C_PAYMENTPROCESSOR SET c_currency_id = 230 WHERE c_currency_id = 100 AND ad_client_id = 11;
+
+UPDATE C_PROJECT SET c_currency_id = 230 WHERE c_currency_id = 100 AND ad_client_id = 11;
+
+UPDATE C_RFQ SET c_currency_id = 230 WHERE c_currency_id = 100 AND ad_client_id = 11;
+
+UPDATE GL_JOURNAL SET c_currency_id = 230 WHERE c_currency_id = 100 AND ad_client_id = 11;
+
+UPDATE GL_JOURNALBATCH SET c_currency_id = 230 WHERE c_currency_id = 100 AND ad_client_id = 11;
+
+UPDATE GL_JOURNALLINE SET c_currency_id = 230 WHERE c_currency_id = 100 AND ad_client_id = 11;
+
+UPDATE M_FREIGHT SET c_currency_id = 230 WHERE c_currency_id = 100 AND ad_client_id = 11;
+
+UPDATE M_PRICELIST SET c_currency_id = 230 WHERE c_currency_id = 100 AND ad_client_id = 11;
+
+UPDATE M_PRODUCT_PO SET c_currency_id = 230 WHERE c_currency_id = 100 AND ad_client_id = 11;
+
+UPDATE S_TIMEEXPENSELINE SET c_currency_id = 230 WHERE c_currency_id = 100 AND ad_client_id = 11;
+
+UPDATE C_REGION SET isdefault = 'N' WHERE c_region_id = 142;
+
+
+-- LCO_Withholding - Withholding Data - matriz
+-- LCO_Geografia - LCO_Festivos
+
+-- Complicado - PUC Colombia en GardenWorld

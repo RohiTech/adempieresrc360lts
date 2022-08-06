@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/adempiere/!svn/ver/14177/branches/globalqss/patches_360/base/src/org/compiere/model
+END
+Scriptlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/14177/branches/globalqss/patches_360/base/src/org/compiere/model/Scriptlet.java
+END
+GridTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/adempiere/!svn/ver/14107/branches/globalqss/patches_360/base/src/org/compiere/model/GridTab.java
+END
+PO.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/14204/branches/globalqss/patches_360/base/src/org/compiere/model/PO.java
+END
+MImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/adempiere/!svn/ver/14107/branches/globalqss/patches_360/base/src/org/compiere/model/MImage.java
+END
+CalloutOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/14427/branches/globalqss/patches_360/base/src/org/compiere/model/CalloutOrder.java
+END
+CalloutInvoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/14427/branches/globalqss/patches_360/base/src/org/compiere/model/CalloutInvoice.java
+END
+MJournal.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/14427/branches/globalqss/patches_360/base/src/org/compiere/model/MJournal.java
+END
+MPayment.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/adempiere/!svn/ver/14427/branches/globalqss/patches_360/base/src/org/compiere/model/MPayment.java
+END

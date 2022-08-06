@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/adempiere/!svn/ver/14107/branches/globalqss/patches_360/utils_dev
+END
+myDevEnvTemplate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/14107/branches/globalqss/patches_360/utils_dev/myDevEnvTemplate.sh
+END
+RUN_build_patches.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/adempiere/!svn/ver/14107/branches/globalqss/patches_360/utils_dev/RUN_build_patches.sh
+END
+myDevEnv.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/adempiere/!svn/ver/14107/branches/globalqss/patches_360/utils_dev/myDevEnv.sh
+END
+RUN_build_zkpatches.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/adempiere/!svn/ver/14107/branches/globalqss/patches_360/utils_dev/RUN_build_zkpatches.sh
+END

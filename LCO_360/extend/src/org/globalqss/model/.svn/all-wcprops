@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/adempiere/!svn/ver/14299/branches/globalqss/LCO_360/extend/src/org/globalqss/model
+END
+I_LCO_DIAN_ConceptFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/I_LCO_DIAN_ConceptFormat.java
+END
+MLCODIANConcept.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/14082/branches/globalqss/LCO_360/extend/src/org/globalqss/model/MLCODIANConcept.java
+END
+LCO_Validator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/14299/branches/globalqss/LCO_360/extend/src/org/globalqss/model/LCO_Validator.java
+END
+LCO_Callouts.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/14082/branches/globalqss/LCO_360/extend/src/org/globalqss/model/LCO_Callouts.java
+END
+X_LCO_DIAN_Concept.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/X_LCO_DIAN_Concept.java
+END
+I_LCO_DIAN_XML_Header.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/I_LCO_DIAN_XML_Header.java
+END
+I_LCO_DIAN_SendScheduleLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/I_LCO_DIAN_SendScheduleLine.java
+END
+I_LCO_TaxIdType.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/I_LCO_TaxIdType.java
+END
+I_LCO_ISIC.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/I_LCO_ISIC.java
+END
+I_LCO_WithholdingRuleConf.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/I_LCO_WithholdingRuleConf.java
+END
+X_LCO_DIAN_ConceptFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/X_LCO_DIAN_ConceptFormat.java
+END
+I_LCO_WithholdingCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/I_LCO_WithholdingCategory.java
+END
+I_LCO_WithholdingRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/I_LCO_WithholdingRule.java
+END
+I_LCO_WithholdingType.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/I_LCO_WithholdingType.java
+END
+I_LCO_WithholdingCalc.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/I_LCO_WithholdingCalc.java
+END
+LCO_CalloutWithholding.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/LCO_CalloutWithholding.java
+END
+X_LCO_DIAN_XML_Header.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/X_LCO_DIAN_XML_Header.java
+END
+I_LCO_DIAN_ConceptSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/I_LCO_DIAN_ConceptSource.java
+END
+I_LCO_Conversion.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/I_LCO_Conversion.java
+END
+X_LCO_ISIC.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/X_LCO_ISIC.java
+END
+X_LCO_TaxIdType.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/X_LCO_TaxIdType.java
+END
+X_LCO_DIAN_SendScheduleLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/X_LCO_DIAN_SendScheduleLine.java
+END
+I_LCO_DIAN_MediaFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/14082/branches/globalqss/LCO_360/extend/src/org/globalqss/model/I_LCO_DIAN_MediaFile.java
+END
+X_LCO_WithholdingRuleConf.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/X_LCO_WithholdingRuleConf.java
+END
+I_LCO_DIAN_SendSchedule.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/I_LCO_DIAN_SendSchedule.java
+END
+I_LCO_DIAN_XMLPrintLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/I_LCO_DIAN_XMLPrintLabel.java
+END
+I_LCO_InvoiceWithholding.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/I_LCO_InvoiceWithholding.java
+END
+X_LCO_WithholdingCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/X_LCO_WithholdingCategory.java
+END
+X_LCO_WithholdingRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/X_LCO_WithholdingRule.java
+END
+X_LCO_WithholdingType.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/X_LCO_WithholdingType.java
+END
+LCO_MInvoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/adempiere/!svn/ver/14082/branches/globalqss/LCO_360/extend/src/org/globalqss/model/LCO_MInvoice.java
+END
+I_LCO_DIAN_Format.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/I_LCO_DIAN_Format.java
+END
+X_LCO_Conversion.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/X_LCO_Conversion.java
+END
+X_LCO_WithholdingCalc.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/X_LCO_WithholdingCalc.java
+END
+X_LCO_DIAN_ConceptSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/X_LCO_DIAN_ConceptSource.java
+END
+MLCOConversion.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/14082/branches/globalqss/LCO_360/extend/src/org/globalqss/model/MLCOConversion.java
+END
+I_LCO_DIAN_FieldFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/I_LCO_DIAN_FieldFormat.java
+END
+X_LCO_DIAN_MediaFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/14082/branches/globalqss/LCO_360/extend/src/org/globalqss/model/X_LCO_DIAN_MediaFile.java
+END
+I_LCO_TaxPayerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/I_LCO_TaxPayerType.java
+END
+I_LCO_ConversionCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/I_LCO_ConversionCode.java
+END
+X_LCO_DIAN_XMLPrintLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/X_LCO_DIAN_XMLPrintLabel.java
+END
+X_LCO_InvoiceWithholding.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/X_LCO_InvoiceWithholding.java
+END
+X_LCO_DIAN_SendSchedule.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/X_LCO_DIAN_SendSchedule.java
+END
+MLCOInvoiceWithholding.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/14082/branches/globalqss/LCO_360/extend/src/org/globalqss/model/MLCOInvoiceWithholding.java
+END
+I_LCO_DIAN_Concept.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/I_LCO_DIAN_Concept.java
+END
+X_LCO_DIAN_Format.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/X_LCO_DIAN_Format.java
+END
+MLCODIANFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/adempiere/!svn/ver/14082/branches/globalqss/LCO_360/extend/src/org/globalqss/model/MLCODIANFormat.java
+END
+X_LCO_DIAN_FieldFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/X_LCO_DIAN_FieldFormat.java
+END
+X_LCO_TaxPayerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/X_LCO_TaxPayerType.java
+END
+X_LCO_ConversionCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/adempiere/!svn/ver/14085/branches/globalqss/LCO_360/extend/src/org/globalqss/model/X_LCO_ConversionCode.java
+END

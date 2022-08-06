@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/adempiere/!svn/ver/14192/branches/globalqss/patches_360/migration/360lts-release/postgresql
+END
+742v_patchversion2010-10-15.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/14222/branches/globalqss/patches_360/migration/360lts-release/postgresql/742v_patchversion2010-10-15.sql
+END
+744v_patchversion2010-11-05.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/14427/branches/globalqss/patches_360/migration/360lts-release/postgresql/744v_patchversion2010-11-05.sql
+END
+741_PayrollDictionaryFixes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/adempiere/!svn/ver/14220/branches/globalqss/patches_360/migration/360lts-release/postgresql/741_PayrollDictionaryFixes.sql
+END
+743_FixOrderLineTaxVT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/adempiere/!svn/ver/14410/branches/globalqss/patches_360/migration/360lts-release/postgresql/743_FixOrderLineTaxVT.sql
+END
+742_FR2878276_ImportPayroll.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/14192/branches/globalqss/patches_360/migration/360lts-release/postgresql/742_FR2878276_ImportPayroll.sql
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/14107/branches/globalqss/patches_360/migration/360lts-release/postgresql/build.xml
+END
+740_FixCaptureSequenceBrazil.sql
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/adempiere/!svn/ver/14107/branches/globalqss/patches_360/migration/360lts-release/postgresql/740_FixCaptureSequenceBrazil.sql
+END
+739_FixReleaseNoLength.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/adempiere/!svn/ver/14107/branches/globalqss/patches_360/migration/360lts-release/postgresql/739_FixReleaseNoLength.sql
+END
+738_AddZoomToUsedIn.sql
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/adempiere/!svn/ver/14107/branches/globalqss/patches_360/migration/360lts-release/postgresql/738_AddZoomToUsedIn.sql
+END
+744_FixFR2897194_Adv_Zoom.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/adempiere/!svn/ver/14427/branches/globalqss/patches_360/migration/360lts-release/postgresql/744_FixFR2897194_Adv_Zoom.sql
+END

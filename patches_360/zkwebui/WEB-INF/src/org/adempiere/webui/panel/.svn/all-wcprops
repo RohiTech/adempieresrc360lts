@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/adempiere/!svn/ver/14222/branches/globalqss/patches_360/zkwebui/WEB-INF/src/org/adempiere/webui/panel
+END
+AbstractADWindowPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/adempiere/!svn/ver/14222/branches/globalqss/patches_360/zkwebui/WEB-INF/src/org/adempiere/webui/panel/AbstractADWindowPanel.java
+END
+InfoInvoicePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/adempiere/!svn/ver/14411/branches/globalqss/patches_360/zkwebui/WEB-INF/src/org/adempiere/webui/panel/InfoInvoicePanel.java
+END

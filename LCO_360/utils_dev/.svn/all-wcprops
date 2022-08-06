@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/adempiere/!svn/ver/14082/branches/globalqss/LCO_360/utils_dev
+END
+RUN_build_zkpackages.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/adempiere/!svn/ver/14082/branches/globalqss/LCO_360/utils_dev/RUN_build_zkpackages.sh
+END
+myDevEnvTemplate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/adempiere/!svn/ver/14082/branches/globalqss/LCO_360/utils_dev/myDevEnvTemplate.sh
+END
+RUN_build_packages.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/adempiere/!svn/ver/14082/branches/globalqss/LCO_360/utils_dev/RUN_build_packages.sh
+END
